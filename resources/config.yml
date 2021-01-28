@@ -1,0 +1,9 @@
+# THESE ARE BROADCAST PLUGIN SETTINGS
+# CHANGE IT IF YOU WANT TO CUSTOMIZE THE PLUGIN
+# DO NOT MODIFY THE PLUGIN (EXCEPT THIS FILE)
+
+#Change Broadcast Prefix
+broadcast-prefix: "§6[§eBroadcast§6]§r "
+
+#Change Plugin Error Prefix
+plugin-prefix: "§4[§cError§4]§r "

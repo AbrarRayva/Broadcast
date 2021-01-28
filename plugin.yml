@@ -1,0 +1,16 @@
+name: Broadcast
+main: DarkfulRebel\Broadcast\Main
+api: 3.0.0
+version: 1.0.0
+author: DarkfulRebel
+description: Broadcast plugin for PocketMine-MP
+
+commands:
+  broadcast:
+    description: Broadcast message to the Server
+    usage: /broadcast <message>
+    permission: broadcast.command
+
+permissions:
+  broadcast.command:
+    description: Broadcast permission for user to execute /broadcast command.
