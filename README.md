@@ -5,7 +5,7 @@ Broadcast plugin for PocketMine-MP
 This is a plugin for broadcasting a message or more to your server.
 
 ## Usage :
-<code>/broadcast <message></code>
+<code>/broadcast (message)</code>
   
 ## Permission :
 <code>broadcast.command</code> (For using /broadcast)
